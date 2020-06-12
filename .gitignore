@@ -1,0 +1,5 @@
+# Ignore hbpkg, which is build package results
+/_hbpkg
+
+# Ignore any directories deposited by JetBrains IDEs
+/.idea

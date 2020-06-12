@@ -1,0 +1,17 @@
+{	"deps": {
+		"method":"apt",
+		"mandatory":[
+			"git",
+			"build-essential",
+			"libbsd-dev",
+			"libtalloc-dev",
+			"python3",
+			"sharutils"
+		]
+		"optional":[
+			"p7zip",
+			"smbclient",
+			"wget"
+		]
+	}
+}
